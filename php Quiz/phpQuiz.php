@@ -241,12 +241,15 @@
 
 
     // foreach loop to print the number of wheels of different vehicles
-    $wheels = ['bicycle' => 2, 'car' => 4];
+    // $wheels = ['bicycle' => 2, 'car' => 4];
 
-    // Foreach loops can iterate over arrays
-    foreach ($wheels as $wheel_count) {
-        print $wheel_count;
-    }
+    // // Foreach loops can iterate over arrays
+    // foreach ($wheels as $wheel_count) {
+    //     print $wheel_count;
+    // }
+
+    return 'Anything you like';
+    
     ?>
 </body>
 
